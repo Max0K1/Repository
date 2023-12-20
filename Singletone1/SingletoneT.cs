@@ -24,7 +24,7 @@ public class Tetris
 
     public void StartGame()
     {
-        Console.WriteLine("Гра почалася!");
+        Console.WriteLine("The game has started!");
     }
 }
 
